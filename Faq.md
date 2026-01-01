@@ -66,6 +66,12 @@ Guidelines:
 - The form should be preferably filled **in the evening**, after completing the day’s work
 - This form is **mandatory** for marking your attendance on **NPTEL’s side** throughout the internship
 
+**2.5 I forgot to fill the attendance sheet attached to the NPTEL offer letter yesterday. What should I do now?**  
+Unfortunately, there is nothing that can be done, as the form is used for **NPTEL’s official database** and attendance **cannot be recorded for the previous day**. The previous day will be considered as a leave and two such days will automatically lead to termination.
+
+Please ensure that the form is filled **daily** going forward to avoid missing attendance again.
+
+
 ---
 
 ## 3. Mentorship & Guidance
@@ -413,7 +419,7 @@ https://docs.google.com/spreadsheets/d/1vOQY7BYRMmNiSCBkzrYR-b-1r54jViEmzvL9nD12
 
 **13.7 What is the deadline to complete the MERN case studies?**  
 
-The **hard deadline** to complete all MERN case studies is **4th January 2026 (Wednesday) evening**.
+The **hard deadline** to complete all MERN case studies is **4th January 2026 (Sunday) evening**.
 
 However, do **not focus solely on the deadline**. Meeting the deadline is **not the ultimate goal** of these case studies.  
 Their primary purpose is to give you exposure to **collaborative problem-solving**, **hands-on coding**, and to help **optimize your learning journey**, rather than forcing you to rush through tasks.

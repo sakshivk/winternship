@@ -142,7 +142,7 @@ order: 3
 - Express.js
 - MongoDB
 
-**Deadline:** Jan 4, 2026 (Wednesday)
+**Deadline:** Jan 4, 2026 (Sunday)
 
 **Track Progress:** [Dashboard](https://docs.google.com/spreadsheets/d/1vOQY7BYRMmNiSCBkzrYR-b-1r54jViEmzvL9nD12PoI/edit?gid=2050387016#gid=2050387016)
 
