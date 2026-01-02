@@ -11,35 +11,94 @@ permalink: /projects/
 </div>
 
 {% assign projects = site.projects | sort: "order" %}
-
 {% assign project_colors = "FF9800,3B82F6,A7F3D0,8B5CF6,059669,FFFF00" | split: "," %}
 
-<div style="display: grid; gap: 2rem; margin-top: 2rem;">
-  {% for project in projects %}
-    {% assign index = forloop.index0 %}
-    {% assign color = project_colors[index] %}
+{% for project in projects %}
+{% assign color = project_colors[forloop.index0] %}
+
+<div style="margin-bottom: 2.5rem; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <details style="margin: 0;">
+    <summary style="cursor: pointer; font-size: 1.7rem; font-weight: bold; padding: 1.5rem 2rem; background: linear-gradient(135deg, #{{ color }}20 0%, #{{ color }}40 100%); border-left: 6px solid #{{ color }}; display: flex; align-items: center; gap: 0.75rem;">
+      <span>{{ project.title }}</span>
+    </summary>
     
-    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s;">
-      <a href="{{ project.url | relative_url }}" style="text-decoration: none; display: block;">
-        <div style="padding: 2rem; background: linear-gradient(135deg, #{{ color }}20 0%, #{{ color }}40 100%); border-left: 6px solid #{{ color }};">
-          <div style="margin-bottom: 1rem;">
-            <h2 style="margin: 0; color: #24292e; font-size: 1.8rem;">{{ project.title }}</h2>
-            {% if project.summary %}
-              <p style="margin: 0.5rem 0 0 0; color: #586069; font-size: 1rem;">{{ project.summary }}</p>
-            {% endif %}
-          </div>
-        </div>
-        <!-- <div style="padding: 1.5rem 2rem; background-color: white; border-top: 1px solid #e1e4e8;">
-          <span style="color: #0366d6; font-weight: 600; font-size: 0.95rem;">View Project Details →</span>
-        </div> -->
-      </a>
+    <div style="padding: 2rem; background-color: white;">
+      <div style="margin-bottom: 1.5rem; padding: 1rem; background-color: #f6f8fa; border-radius: 8px; border-left: 4px solid #{{ color }};">
+        <p style="margin: 0; color: #586069; font-size: 1rem;"><strong>Summary:</strong> {{ project.summary }}</p>
+      </div>
+      
+      <div style="prose max-width: none;">
+        {{ project.content }}
+      </div>
     </div>
-  {% endfor %}
+  </details>
 </div>
 
+{% endfor %}
+
 <style>
-  div[style*="box-shadow"]:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.15) !important;
+  details[open] summary {
+    margin-bottom: 0;
+  }
+  
+  details summary:hover {
+    opacity: 0.9;
+  }
+  
+  details div.prose h2 {
+    color: #24292e;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e1e4e8;
+  }
+  
+  details div.prose h3 {
+    color: #24292e;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  details div.prose h4 {
+    color: #586069;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  details div.prose ul, details div.prose ol {
+    margin: 1rem 0;
+    padding-left: 2rem;
+  }
+  
+  details div.prose li {
+    margin: 0.5rem 0;
+    color: #24292e;
+    line-height: 1.6;
+  }
+  
+  details div.prose p {
+    margin: 1rem 0;
+    color: #24292e;
+    line-height: 1.7;
+  }
+  
+  details div.prose strong {
+    color: #24292e;
+    font-weight: 600;
+  }
+  
+  details div.prose a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  
+  details div.prose a:hover {
+    text-decoration: underline;
   }
 </style>
