@@ -17,3 +17,8 @@ Building **MERN stack codes from scratch** reinforces the value of fundamentals,
 Above all, this internship values **depth over speed**. Credit goes to the organizing team for designing an experience that feels intentional, engaging, and genuinely enjoyable.
 
 Two weeks in, comfort zones are shrinking, curiosity is growing and that feels like exactly the point.
+
+Author : [Pratheek Gaba](https://www.linkedin.com/in/pratheek-gaba/)
+
+LinkedIn Article : [Read on LinkedIn](https://www.linkedin.com/your-article-link/https://www.linkedin.com/posts/pratheek-gaba_heres-what-i-have-experienced-from-the-past-activity-7413768710118899712-BTBG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEOs1YBT9F7xgWVfZKol5JQRgmFMVDvoa4)
+
