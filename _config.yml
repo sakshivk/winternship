@@ -36,4 +36,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:slug/
+  blogs:
+    output: true
+    permalink: /blogs/:slug/
 

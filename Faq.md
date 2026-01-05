@@ -14,7 +14,7 @@ order: 2
 5. [Stipend and Certification](#5-stipend-and-certification)
 6. [Completion & Certification](#6-completion--certification)
 7. [Report Submission & Deadline](#7-report-submission--deadline)
-8. [Termination & Rejoining](#8-termination--rejoining)
+8. [Termination, Appeals & Rejoining](#8-termination-appeals--rejoining)
 9. [ViBe Platform](#9-vibe-platform)
 10. [Cliq Channel](#10-cliq-channel)
 11. [GitHub Assignment Submission](#11-github-assignment-submission)
@@ -70,6 +70,20 @@ Guidelines:
 Unfortunately, there is nothing that can be done, as the form is used for **NPTEL’s official database** and attendance **cannot be recorded for the previous day**. The previous day will be considered as a leave and two such days will automatically lead to termination.
 
 Please ensure that the form is filled **daily** going forward to avoid missing attendance again.
+
+**2.6 How can I avail the one-day leave allowed during the internship?**  
+Taking leave is **discouraged**, as you may miss important updates shared during live sessions or fall behind in your progress. It will be **your own responsibility** to complete the work missed on the leave day.
+
+However, if you must take the leave, follow the steps below:
+
+- Write a message in the **main Cliq Channel** stating the reason for your leave
+- Tag **@Nitin Sankar A** sir, **@Jinal Gupta** ma’am, and **@Harshdeep R** ma’am in the message
+- Post the request **at least one day in advance**
+- Clearly mention:
+  - The **reason** for the leave
+  - The **exact date** on which you intend to take the leave
+
+Once submitted, the request will be reviewed and processed by the team.
 
 
 ---
@@ -138,16 +152,35 @@ Late submissions may result in being **flagged as a defaulter**.
 
 ---
 
-## 8. Termination & Rejoining
+## 8. Termination, Appeals & Rejoining
 
-**8.1 Can I rejoin after termination due to exams?**  
-No. Any **academic overlap** disqualifies continuation.
+**8.1 Can I be terminated due to academic overlap (exams, college work, etc.)?**  
+Yes. Any **academic overlap** that affects attendance or participation will result in **termination**, as this internship requires full-time commitment.
 
-**8.2 Can I appeal a termination?**  
-No. Terminations are **final**.
+**8.2 Can I be terminated due to attendance issues?**  
+Yes. Interns who are found to be **fully absent for three or more working days on Zoom**, based on verified and auditable attendance records, may be **removed from the internship**.  
+Relevant communication regarding such actions is sent **only via official email**.
 
-**8.3 Will future batches be identical?**  
-You must **reapply**. Funding is **not guaranteed**.
+**8.3 Can I appeal a termination related to attendance?**  
+Yes, **only in specific cases**. If you genuinely believe there has been an error in the attendance records and you have attended the sessions as required, you may submit an appeal **exclusively through the official Google Form shared with you via email**.
+
+Please note:
+- Appeals raised on **Cliq or any other platform will not be entertained**
+- Appeals are accepted **only through the official Google Form**
+- Each appeal triggers a **detailed re-verification** of Zoom attendance logs and session recordings
+
+If, after re-verification, non-attendance is confirmed, the appeal may be viewed as a **lack of due diligence** and an **unnecessary use of institutional time**, and the matter **may be escalated** to the relevant academic authorities for appropriate action.
+
+**8.4 What should I do if I receive an email regarding termination or appeal?**  
+If you have received such an email:
+- Kindly **exit the Cliq group**
+- Continue all further communication **strictly via email**
+- Follow only the instructions mentioned in the official email
+
+**8.5 Can I rejoin the internship after termination?**  
+No. Terminations are **final**, and rejoining the same batch is **not permitted**.  
+You may choose to **reapply for a future batch**, subject to selection and funding availability.
+
 
 ---
 
