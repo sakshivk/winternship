@@ -26,4 +26,4 @@ I’m grateful to the VLED Lab and NPTEL for creating an environment where learn
 ---
 
 Author: [Harshwardhan Ahirwar](https://www.linkedin.com/in/harshwardhanahirwar/)  
-LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/YOUR-LINKEDIN-ARTICLE-LINK/)
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/pulse/learning-stay-consistent-when-one-forcing-you-harshwardhan-ahirwar-7tapf)
