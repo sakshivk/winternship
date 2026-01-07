@@ -35,4 +35,4 @@ In just two weeks, this internship has begun to influence how learning, growth, 
 ---
 
 Author: [PRAJAKTA SARODE](www.linkedin.com/in/prajakta-sarode-3014b0333)  
-LinkedIn Article: [Read on LinkedIn] (https://www.linkedin.com/pulse/from-curiosity-growth-my-first-internship-iit-ropar-prajakta-sarode-ivohf)
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/pulse/from-curiosity-growth-my-first-internship-iit-ropar-prajakta-sarode-ivohf)

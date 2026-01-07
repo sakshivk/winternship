@@ -21,6 +21,7 @@ order: 2
 12. [Health Points System](#12-health-points-system)
 13. [MERN Case Studies](#13-mern-case-studies)
 14. [Viva/PES (Endorsements)](#14-vivapes-endorsements)
+15. [Blogs](#15-blogs)
 
 
 <hr/>
@@ -529,3 +530,123 @@ Additionally, **Silver and Golden Tickets** will be issued to selected interns.
 
 **14.14 How do I earn a Silver ticket?**  
 Anyone who endorses **more than 25 people** will be evaluated by the Teaching Team and will be issued a Silver Ticket.
+
+---
+
+## 15. Blogs
+
+**15.1 How do I publish my blog by committing through GitHub?**
+
+Before starting, carefully read the official blog instructions available here:  
+https://sudarshansudarshan.github.io/winternship/blogs/
+
+After reviewing the instructions, follow the steps below to commit your blog using GitHub and successfully create a Pull Request (PR).
+
+If you are facing difficulties while uploading your blog, ensure the following:
+- You have a **GitHub account registered with the same email ID** used for the internship
+- **Git Bash** is installed on your system
+
+
+### Step-by-Step Blog Submission Process
+
+**1. Fork the official repository**  
+https://github.com/sudarshansudarshan/winternship.git
+
+
+**2. Clone your fork to your local machine**
+```bash
+git clone https://github.com/<your-username>/winternship.git
+cd winternship
+```
+
+**3. Add the upstream repository (one-time setup)**
+```bash
+git remote add upstream https://github.com/sudarshansudarshan/winternship.git
+```
+
+**4. Sync your fork with the original repository**
+```bash
+git checkout main
+git pull upstream main
+```
+
+**5. Create a new branch for your blog**
+```bash
+git checkout -b Blogs
+```
+
+**6. Navigate to the _blogs folder**
+```bash
+cd _blogs
+```
+
+**7. Create a new Markdown file**
+
+Use the following filename format:
+```bash
+YourName_NPTELID.md
+```
+Example:
+```bash
+JohnDoe_WIN12345.md
+```
+
+**8. Write the blog with assoicated details inside the file in the following format(save and close after editing)**
+
+```bash
+---
+title: "My NPTEL Winter Internship Experience"
+author: Your Full Name
+nptel_id: WINXXXXX
+---
+
+**LinkedIn Article:**  
+https://www.linkedin.com/pulse/your-article-link
+
+**LinkedIn Profile:**  
+https://www.linkedin.com/in/your-profile-link/
+
+Your blog content here...
+```
+
+**9. Commit your changes**
+
+```bash
+git add _blogs/YourName_WINXXXXX.md
+git commit -m "Add NPTEL internship blog with LinkedIn article and profile"
+```
+
+**10. Push your branch to GitHub**
+
+```bash
+git push origin Blogs
+```
+
+**11. Create a Pull Request (PR)**
+
+- Open your forked repository on GitHub:
+```bash
+https://github.com/<your-username>/winternship.git
+```
+- Click Compare & pull request
+
+- Set:
+
+   - Base repository: sudarshansudarshan/winternship
+
+   - Base branch: main
+
+   - Head repository: <your-username>/winternship
+
+   - Head branch: Blogs
+
+- Provide a clear PR title and description
+
+- Submit the Pull Request
+
+**12. Final Step**
+
+Once your Pull Request is reviewed and merged, your blog will be published and visible at:
+https://sudarshansudarshan.github.io/winternship/blogs/
+
+Please note that only properly formatted submissions following the above steps will be considered.

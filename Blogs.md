@@ -59,8 +59,8 @@ Your blog must end with the following structure:
 ```markdown
 ---
 
-Author: [Your Full Name](https://www.linkedin.com/in/your-linkedin-profile/)  
-LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/your-article-link/)
+Author: [Your Full Name](https://www.linkedin.com/in/your-linkedin-profile/){:target="_blank"}
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/your-article-link/){:target="_blank"}
 ```
 
 *Note: If your blog title contains special characters like colons (:), wrap it in double quotes.*
@@ -77,8 +77,8 @@ Your blog content here...
 
 ---
 
-Author: [Mohit Kumar](https://www.linkedin.com/in/mohit-kumar/)  
-LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/my-learning-journey-reflections-growth-mohit-kumar/)
+Author: [Mohit Kumar](https://www.linkedin.com/in/mohit-kumar/){:target="_blank"}
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/my-learning-journey-reflections-growth-mohit-kumar/){:target="_blank"}
 ```
 
 <br>

@@ -17,5 +17,11 @@ Every day at 9 AM during the stand-up sessions, I see our teachers — Professor
 ## Two-Week Change
 We have completed only two weeks of the internship, and in this short time I have learned so much. Life before the internship and life after the internship are not the same. Every single day gives me a new chance to change, to grow, and to become better. I stopped doom scrolling, I started waking up early so I would never miss the 9 AM stand-up, and I now try to improve myself a little more every day. These small habits make me proud, especially because this is my very first internship.
 
+## Deep Learning
+Sudarshan Sir and the entire team continuously introduce new activities that make learning enjoyable and meaningful. They conduct live polls during Zoom sessions, quizzes, interactive discussions, and special learning sessions. Discussing in breakout rooms with peers and solving case studies together made learning even more engaging and practical. This internship values depth over speed, and that completely changed the way I approach learning.
+
 ## A Dream Fulfilled and Gratitude
 Overall, this experience has been truly life-changing. It transformed the way I think, study, and focus. Studying in an IIT has always been a dream for me, and in this form, through this internship, I feel that dream has been fulfilled. As my first internship, this journey will always remain special to me. Above all, I feel deep gratitude and thankfulness toward all the teachers who work so hard for our growth, not just as developers, but as individuals.
+
+Author: [Enjamuri Manuha](https://www.linkedin.com/in/enjamurimanuha)  
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/pulse/my-first-internship-more-than-just-manuha-enjamuri-axifc)
