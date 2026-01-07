@@ -7,16 +7,16 @@ DISCLAIMER: This blog might be long, but it is from my heart.
 
 I precisely remember it to be the 15th of October,2025, and we were waiting with anticipation for NPTEL to publish the list of candidates who had been shortlisted for that year's winter Internship. As the anticipation kept growing so did my curiousity to know what am i supposed to be pre-equipped with incase I get shortlisted.So it was on that this day that I mustered up some courage and dropped a message to Sudarshan sir on LinkedIn as follows:
 
-![LinkedIn Message](https://drive.google.com/uc?id=1WNeiehz25QE7ZGrzPMKP1iktOvrfwwDu)
+![LinkedIn Message](https://drive.google.com/uc?export=view&id=1WNeiehz25QE7ZGrzPMKP1iktOvrfwwDu)
 
 As expected, I knew it for certain that an IIT Professor would surely be a pretty busy person and hence I just waited for the Internship to begin and to go with the flow.
 
 _Learning on the fly, The Deer effect, Grit and Perseverance over passion._  
 _In fact I maintained a diary to take note of important technical things in the Internship but then ended up the first two pages only with the enormously fantastic ideas that were popped up in our stand-up sessions:_  
 
-![Diary Notes - Page 1](https://drive.google.com/uc?id=1IvyioG0GyJws3hRAf1RmpdbVtlvCfiG7)
+![Diary Notes - Page 1](https://drive.google.com/uc?export=view&id=1IvyioG0GyJws3hRAf1RmpdbVtlvCfiG7)
 
-![Diary Notes - Page 2](https://drive.google.com/uc?id=1gcbeGiMZMJGiSUCZHsEus36GXO2gA12D)
+![Diary Notes - Page 2](https://drive.google.com/uc?export=view&id=1gcbeGiMZMJGiSUCZHsEus36GXO2gA12D)
 
 By the end of the first day, I made up my mind and also told my parents that I would want to skip my semester end examinations , take up this Internship seriously have backlogs, get a year back and go and clear them next year ! (but thankfully that didn't happen and things somehow just worked out !)
 
