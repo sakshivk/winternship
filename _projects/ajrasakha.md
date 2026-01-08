@@ -50,7 +50,7 @@ Ultimately, the Reviewer System builds a comprehensive, state and crop-specific 
 
 ## **GitHub Repository**
 
-[Ajrasakha](https://github.com/{{ page.repo }}){:target="_blank"}
+[Ajrasakha Reviewer System](https://github.com/{{ page.repo }}){:target="_blank"}
 
 {% if page.features.size > 0 %}
 ## **Upcoming Features**

@@ -4,7 +4,7 @@ title: Vi-Notes
 order: 8
 summary: Authenticity verification platform that ensures genuine human writing through keyboard activity monitoring and statistical signature analysis
 color: "FF6B6B"
-repo: "vicharanashala/"
+repo: "vicharanashala/vi-notes"
 features: []
 ---
 
@@ -36,7 +36,7 @@ Vi-Notes restores trust in written content through reliable authorship verificat
 
 ## **GitHub Repository**
 
-[Vi-Notes (TBD)](https://github.com/{{ page.repo }}){:target="_blank"}
+[Vi-Notes](https://github.com/{{ page.repo }}){:target="_blank"}
 
 {% if page.features.size > 0 %}
 ## **Upcoming Features**

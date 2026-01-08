@@ -46,7 +46,7 @@ The platform is available anytime, providing 24/7 access to agricultural guidanc
 
 ## **GitHub Repository**
 
-[Ajrasakha Chatbot Client](https://github.com/{{ page.repo }}){:target="_blank"}
+[Ajrasakha Chatbot](https://github.com/{{ page.repo }}){:target="_blank"}
 
 {% if page.features.size > 0 %}
 ## **Upcoming Features**
