@@ -4,7 +4,7 @@ author: PRAJAKTA SARODE
 nptel_id: WIN25546
 ---
 
-I am Prajakta, a second-year (4th semester) Computer Engineering student. This internship with VLED Lab at IIT Ropar is my first internship ever, and even now, writing that feels a little unreal.
+I am Prajakta, a second-year Computer Engineering student. This internship with VLED Lab at IIT Ropar is my first internship ever, and even now, writing that feels a little unreal.
 
 When my NPTEL results came out and I found myself in the Top 5% category, I was happy. My family was happy. Everyone felt proud. At that moment, I knew something good might come out of it—but I didn’t know how or when. A few months later, an email arrived. I registered, received the offer letter, and just like that, I stepped into my first professional learning experience. 
 
@@ -36,3 +36,4 @@ In just two weeks, this internship has begun to influence how learning, growth, 
 
 Author: [PRAJAKTA SARODE](www.linkedin.com/in/prajakta-sarode-3014b0333)  
 LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/pulse/from-curiosity-growth-my-first-internship-iit-ropar-prajakta-sarode-ivohf)
+Approved by: Himanshu P Dev
