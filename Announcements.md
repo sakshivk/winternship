@@ -14,6 +14,8 @@ announcements:
       **Duration:** 9 AM to 9 PM.
       
       **Problem Statement:** The problem statement and other details will be given at the start of the hackathon. Surprise!
+      
+      **Need help?** Check out the [Hackathon FAQ](/winternship/hackathon-faq/) for common questions and answers.
 
   - title: "The Self-Healing Endorsement Network"
     date: "January 9, 2026"
