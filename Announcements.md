@@ -41,6 +41,7 @@ announcements:
 
 ## 📢 Latest Announcements
 
+{% if page.announcements.size > 0 %}
 {% for announcement in page.announcements %}
 
 ---
@@ -56,6 +57,12 @@ announcements:
 {% endif %}
 
 {% endfor %}
+{% else %}
+<div style="text-align: center; padding: 40px; color: #666;">
+  <p style="font-size: 1.2em;">📭 No announcements at the moment</p>
+  <p>Check back later for updates!</p>
+</div>
+{% endif %}
 
 ---
 
