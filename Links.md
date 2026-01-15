@@ -19,12 +19,6 @@ links:
       url: "https://forms.gle/bWGyby24W62JGWMf8"
     - label: "Pinternship - Nomination Entry Form"
       url: "https://docs.google.com/forms/d/e/1FAIpQLScZx47zCR6UEZHuodjsi3p7owqyLh5qJryopOKYE1pUcSG13Q/viewform"
-
-
-            
-  # Example:
-  # - label: "Pinternship GitHub Repository"
-  #   url: "https://github.com/sudarshansudarshan/pinternship"
 ---
 
 [← Back]({{ site.baseurl }}/)
