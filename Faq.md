@@ -341,7 +341,14 @@ If you're facing profile picture issues, try these troubleshooting steps:
 - This may be due to your **data center being mapped to US instead of India**
 - Send an email with detailed issue description to: **support@zohocliq.com**
 
+**10.7 How do I join the Cliq channel with my college mail ID?**  
 
+Follow these steps to join the internship channel using your college email:
+
+1. **Create an account** on Zoho Cliq using your **COLLEGE MAIL ID**
+2. Access your **college mail inbox** and accept the request to join the **pinternship channel**
+
+Make sure to use your college email ID throughout the process to ensure proper access and identification.
 
 ---
 
