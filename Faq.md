@@ -86,6 +86,9 @@ However, if you must take the leave, follow the steps below:
 
 Once submitted, the request will be reviewed and processed by the team.
 
+**2.7. What happens if I join the morning stand-up session using a different email ID?**
+If an intern joins the morning stand-up using a different or mismatched email ID, it will be marked as absent. 
+In exceptional cases, the issue may be considered with a warning and deduction of Health Points (HP).
 
 ---
 
@@ -154,6 +157,9 @@ We have two paths to complete the internship -
 **7.1 What happens if I miss deadlines?**  
 Late submissions may result in being **flagged as a defaulter**.
 
+**7.2 Can I get an official report stating that I was present for all days of the internship to submit to my college?**
+No official report can be issued to the college from dled@iitrpr.ac.in. 
+The attendance or completion report will be issued by NPTEL only after successful completion of the internship.
 ---
 
 ## 8. Termination, Appeals & Rejoining
